@@ -1,10 +1,15 @@
-Desigualdad social en Bogotá: Gini, pobreza y localidades
+**Desigualdad social en Bogotá: Gini, pobreza y localidades**
 
 Proyecto final de la materia DataXperience — análisis de ciencia de datos sobre la relación entre la desigualdad de ingresos (Coeficiente de Gini) y la pobreza monetaria en las 20 localidades de Bogotá.
 
-Nombre: Johan David Pinto Martín Carrera: Ingeniería de Sistemas Docente: Camila Silva Gómez Materia: DataXperience Grupo: 1 · Ciclo: 3
+**Nombre:** Johan David Pinto Martín 
+**Carrera:** Ingeniería de Sistemas 
+**Docente:** Camila Silva Gómez 
+**Materia:** DataXperience 
+**Grupo:** 1  
+**Ciclo:** 3
 
-Contexto
+**Contexto**
 
 Bogotá es una ciudad con enormes contrastes territoriales: mientras algunas localidades tienen niveles de pobreza monetaria menores al 10%, otras superan el 55%. Este proyecto usa datos oficiales de la Secretaría Distrital de Salud (con base en la Encuesta Multipropósito DANE-SDP) para entender cómo se relacionan la desigualdad interna (Gini) y la pobreza por localidad, y para construir un modelo simple que prediga la pobreza extrema a partir de esas dos variables.
 
